@@ -1,0 +1,77 @@
+[
+    {
+        "path": "/homes",
+        "target": "homes",
+        "name": "首页"
+    },
+    {
+        "path": "/userM",
+        "target": "userM",
+        "name": "用户管理"
+    },
+    {
+        "path": "/addAndUpdateUser",
+        "target": "addAndUpdateUser",
+        "name": "新增用户/编辑用户"
+    },
+    {
+        "path": "/sourceData",
+        "target": "sourceData",
+        "name": "数据源管理"
+    },
+    {
+        "path": "/connectSql",
+        "target": "connectSql",
+        "name": "数据连接"
+    },
+    {
+        "path": "/addSql",
+        "target": "addSql",
+        "name": "新增数据表"
+    },
+    {
+        "path": "/updateSql",
+        "target": "updateSql",
+        "name": "修改数据表"
+    },
+    {
+        "path": "/sqlDetails",
+        "target": "sqlDetails",
+        "name": "数据表详情"
+    },
+    {
+        "path": "/tableManage",
+        "target": "tableManage",
+        "name": "报表管理"
+    },
+    {
+        "path": "/backManage",
+        "target": "backManage",
+        "name": "后台用户管理"
+    },
+    {
+        "path": "/addUser",
+        "target": "addUser",
+        "name": "添加后台用户"
+    },
+    {
+        "path": "/updateUser",
+        "target": "updateUser",
+        "name": "修改后台用户"
+    },
+    {
+        "path": "/showUser",
+        "target": "showUser",
+        "name": "查看后台用户"
+    },
+    {
+        "path": "/userJurisdiction",
+        "target": "userJurisdiction",
+        "name": "角色权限管理"
+    },
+    {
+        "path": "/updateJurisdiction",
+        "target": "updateJurisdiction",
+        "name": "新增/修改角色权限"
+    }
+]
